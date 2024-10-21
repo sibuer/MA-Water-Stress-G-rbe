@@ -1,0 +1,145 @@
+"month","rcp","type","value"
+1,"RCP 2.6","median",56.5685
+1,"RCP 2.6","q_min",33.5336
+1,"RCP 2.6","q_max",108.5754
+2,"RCP 2.6","median",54.7515
+2,"RCP 2.6","q_min",26.5987
+2,"RCP 2.6","q_max",98.49505
+3,"RCP 2.6","median",66.946
+3,"RCP 2.6","q_min",38.4641
+3,"RCP 2.6","q_max",109.30945
+4,"RCP 2.6","median",69.619
+4,"RCP 2.6","q_min",37.7212
+4,"RCP 2.6","q_max",119.39055
+5,"RCP 2.6","median",80.7
+5,"RCP 2.6","q_min",40.58665
+5,"RCP 2.6","q_max",136.3184
+6,"RCP 2.6","median",71.416
+6,"RCP 2.6","q_min",40.13655
+6,"RCP 2.6","q_max",132.10575
+7,"RCP 2.6","median",47.8935
+7,"RCP 2.6","q_min",24.25195
+7,"RCP 2.6","q_max",93.71715
+8,"RCP 2.6","median",33.8355
+8,"RCP 2.6","q_min",17.2164
+8,"RCP 2.6","q_max",74.5377
+9,"RCP 2.6","median",32.1015
+9,"RCP 2.6","q_min",14.69015
+9,"RCP 2.6","q_max",76.33765
+10,"RCP 2.6","median",35.7165
+10,"RCP 2.6","q_min",15.4508
+10,"RCP 2.6","q_max",77.2046
+11,"RCP 2.6","median",39.719
+11,"RCP 2.6","q_min",18.5531
+11,"RCP 2.6","q_max",78.65855
+12,"RCP 2.6","median",56.685
+12,"RCP 2.6","q_min",27.87295
+12,"RCP 2.6","q_max",101.8044
+1,"RCP 4.5","median",63.403
+1,"RCP 4.5","q_min",31.70965
+1,"RCP 4.5","q_max",106.5165
+2,"RCP 4.5","median",53.168
+2,"RCP 4.5","q_min",29.7404
+2,"RCP 4.5","q_max",92.5859
+3,"RCP 4.5","median",66.2075
+3,"RCP 4.5","q_min",37.7822
+3,"RCP 4.5","q_max",109.27375
+4,"RCP 4.5","median",68.9515
+4,"RCP 4.5","q_min",39.69985
+4,"RCP 4.5","q_max",112.79655
+5,"RCP 4.5","median",73.2575
+5,"RCP 4.5","q_min",38.8968
+5,"RCP 4.5","q_max",133.418
+6,"RCP 4.5","median",61.4635
+6,"RCP 4.5","q_min",28.7635
+6,"RCP 4.5","q_max",119.96295
+7,"RCP 4.5","median",41.5155
+7,"RCP 4.5","q_min",19.17425
+7,"RCP 4.5","q_max",83.513
+8,"RCP 4.5","median",28.091
+8,"RCP 4.5","q_min",13.4145
+8,"RCP 4.5","q_max",65.3856
+9,"RCP 4.5","median",27.5795
+9,"RCP 4.5","q_min",11.9012
+9,"RCP 4.5","q_max",72.87275
+10,"RCP 4.5","median",38.3855
+10,"RCP 4.5","q_min",14.3534
+10,"RCP 4.5","q_max",89.06115
+11,"RCP 4.5","median",41.686
+11,"RCP 4.5","q_min",18.15195
+11,"RCP 4.5","q_max",87.32735
+12,"RCP 4.5","median",53.145
+12,"RCP 4.5","q_min",24.7662
+12,"RCP 4.5","q_max",103.719
+1,"RCP 8.5","median",60.773
+1,"RCP 8.5","q_min",31.07725
+1,"RCP 8.5","q_max",101.917
+2,"RCP 8.5","median",58.7975
+2,"RCP 8.5","q_min",34.38455
+2,"RCP 8.5","q_max",105.4226
+3,"RCP 8.5","median",67.9365
+3,"RCP 8.5","q_min",41.5337
+3,"RCP 8.5","q_max",104.1765
+4,"RCP 8.5","median",71.122
+4,"RCP 8.5","q_min",40.08975
+4,"RCP 8.5","q_max",112.7279
+5,"RCP 8.5","median",78.959
+5,"RCP 8.5","q_min",41.064
+5,"RCP 8.5","q_max",123.8113
+6,"RCP 8.5","median",65.62
+6,"RCP 8.5","q_min",30.7737
+6,"RCP 8.5","q_max",116.27785
+7,"RCP 8.5","median",39.8045
+7,"RCP 8.5","q_min",20.48225
+7,"RCP 8.5","q_max",87.49655
+8,"RCP 8.5","median",25.2705
+8,"RCP 8.5","q_min",13.66995
+8,"RCP 8.5","q_max",62.17735
+9,"RCP 8.5","median",24.614
+9,"RCP 8.5","q_min",11.02515
+9,"RCP 8.5","q_max",58.4005
+10,"RCP 8.5","median",32.0105
+10,"RCP 8.5","q_min",13.8447
+10,"RCP 8.5","q_max",70.46315
+11,"RCP 8.5","median",41.7595
+11,"RCP 8.5","q_min",19.10545
+11,"RCP 8.5","q_max",79.43575
+12,"RCP 8.5","median",51.3185
+12,"RCP 8.5","q_min",22.9842
+12,"RCP 8.5","q_max",109.9404
+1,"observed","median",56.582
+1,"observed","q_min",26.37105
+1,"observed","q_max",101.7272
+2,"observed","median",55.871
+2,"observed","q_min",31.14315
+2,"observed","q_max",96.06795
+3,"observed","median",69.0025
+3,"observed","q_min",41.71605
+3,"observed","q_max",112.84065
+4,"observed","median",78.2765
+4,"observed","q_min",45.4674
+4,"observed","q_max",123.1763
+5,"observed","median",84.375
+5,"observed","q_min",47.87885
+5,"observed","q_max",136.1809
+6,"observed","median",65.3575
+6,"observed","q_min",32.44165
+6,"observed","q_max",121.3158
+7,"observed","median",54.8875
+7,"observed","q_min",25.79685
+7,"observed","q_max",109.1583
+8,"observed","median",42.243
+8,"observed","q_min",18.3727
+8,"observed","q_max",85.20785
+9,"observed","median",40.8315
+9,"observed","q_min",16.7653
+9,"observed","q_max",85.6582
+10,"observed","median",41.5985
+10,"observed","q_min",18.00055
+10,"observed","q_max",80.13425
+11,"observed","median",40.855
+11,"observed","q_min",18.98945
+11,"observed","q_max",80.82825
+12,"observed","median",51.1855
+12,"observed","q_min",25.10895
+12,"observed","q_max",95.2447

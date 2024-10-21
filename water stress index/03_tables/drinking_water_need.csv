@@ -1,0 +1,7 @@
+﻿Year;residents;daily_need_per_person_l;yearly_need_per_person_l;yearly_need_per_person_cubicm;yearly_wn_cubicm;monthly_water_need_mm;type_data
+1990;17 147;142;51 866;51.9;889 346.2;0.639;obs
+2010;19 774;142;51 866;51.9;1 025 598.0;0.737;obs
+2030;21 931;142;51 866;51.9;1 137 480.8;0.817;mod
+2050;22 477;142;51 866;51.9;1 165 791.2;0.837;mod
+2070;23 073;142;51 866;51.9;1 196 715.5;0.860;extrapolated
+2090;23 619;142;51 866;51.9;1 225 025.8;0.880;extrapolated
