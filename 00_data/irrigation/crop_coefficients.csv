@@ -1,0 +1,57 @@
+﻿KULTGRUT_K;KULTURT_KU;area [m];Irrigation (yes/no);sign_groesse;Kommentar;Source;gp_plant_date;gp_ini;gp_crop_dev;gp_mid_season;gp_late;gp_total;kont;kc_ini;kc_mid;kc_end;kc_ini_lit
+Grünland;Kunstwiesen (ohne Weiden);17297470.41;nein;ja;"1 Als Ackerfläche gilt die Fläche, welche in eine Fruchtfolge einbezogen ist. Sie setzt sich aus der
+offenen Ackerfläche und den Kunstwiesen zusammen
+Als Kunstwiese gilt die als Wiese angesäte Fläche, die innerhalb einer Fruchtfolge während
+mindestens einer Vegetationsperiode bewirtschaftet wird";Wiesen;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+übrige Nutzfläche Wiese;Übrige Dauerwiesen (ohne Weiden);17122354.23;nein;ja;"Als Dauergrünfläche gilt die mit Gräsern und Kräutern bewachsene Fläche ausserhalb der
+Sömmerungsflächen (Art. 24). Sie besteht seit mehr als sechs Jahren als Dauerwiese oder als
+Dauerweide.
+2 Als Dauerwiese gilt die Fläche, die jährlich mindestens ein Mal zur Futtergewinnung gemäht wird.";Wiesen;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+Sömmerungfläche;Sömmerungsweiden;16377485.29;nein;ja;;Weiden;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+übrige Nutzfläche Weide;Weiden (Heimweiden, übrige Weiden ohne Sömmerungsweiden);11981066.42;nein;ja;;Weiden;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+BFF I Fläche;Extensiv genutzte Wiesen (ohne Weiden);4232230.20;nein;ja;;Wiesen;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+Kulturpflanzen;Silo- und Grünmais;3702054.97;ja;ja;;FAO Database, Maize ;Apr;30;40;50;50;170;ok;1;1.2;0.5;0.3
+BFF I Baum;Hochstamm-Feldobstbäume (Punkte oder Flächen);2252149.43;ja;ja;;FAO Database, Orchard (Apple);Mar;20;70;90;30;210;ok;1;0.95;0.7;0.45
+Getreide;Winterweizen (ohne Futterweizen der Sortenliste swiss granum);2154073.61;ja;ja;;FAO Database, Wheat (Winter);Oct;160;55;55;20;290;ok;1;1.15;0.25;0.4
+BFF I Fläche;Extensiv genutzte Weiden;1148044.94;nein;ja;;Weiden;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+Getreide;Wintergerste;1110266.91;eher_nein;ja;Kürzerer Vegetationszyklus, früher reif und geringerer Wasserbedarf als Weizen (Strickhof);"FAO Database, Barley (Winter); Strickhof";Oct;160;55;45;20;280;ok;1;1.15;0.25;0.3
+Kulturpflanzen;Übrige Kulturen;973529.66;ja;ja;Flächen, welche nicht genug gross waren, um einzeln behandelt zu werden (<5000m2);Misc. (mean);Apr;35;55;50;40;180;ok;1;1.13;0.43;0.36
+BFF I Fläche;Wenig intensiv genutzte Wiesen (ohne Weiden);932175.70;nein;ja;;Wiesen;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+BFF I Fläche;Winterweizen (ohne Futterweizen der Sortenliste swiss granum);864268.68;eher_nein;ja;;FAO Database, Wheat (Winter);Oct;160;55;55;20;290;ok;1;1.15;0.25;0.4
+Getreide;Futterweizen gemäss Sortenliste swiss granum;802481.10;eher_nein;ja;;FAO Database, Wheat (Winter);Oct;160;55;55;20;290;ok;1;1.15;0.25;0.4
+Getreide;Triticale;793458.60;eher_nein;ja;Kreuzung Roggen und Weizen;"FAO Database (Wheat); Strickhof. Triticale ";Oct;160;55;55;20;290;ok;1;1.15;0.25;0.4
+Getreide;Körnermais;472975.19;ja;ja;;FAO Database, Maize ;Apr;30;40;50;50;170;ok;1;1.2;0.5;0.3
+Gemüse;Einjährige Freilandgemüse, ohne Konservengemüse;389862.89;ja;ja;"Vielleicht auch Werte für ""Cabbage"" verwenden; keine Angabe Wachstumsperiode für Idaho, könnte man aber herausfinden….
+Kc's wären 0.7>>1.05>>0.95… Evtl. Relevant, da Werte im Sommer geringer";FAO Database, Sugarbeet;Apr;35;55;50;40;180;ok;1;1.2;1;0.35
+Kulturpflanzen;Winterraps zur Speiseölgewinnung;351151.90;ja;ja;"Gute Bodenbedeckung im Winter; Saat: Mitte Aug, Anfang Sep; Ernte Mitte Jul";FAO Databse, Rapeseed;Aug;170;55;55;40;320;ok;1;1;0.25;0.15
+Getreide;Dinkel;327818.49;eher_nein;ja;;FAO Database, Wheat (Winter);Oct;160;55;55;20;290;ok;1;1.15;0.25;0.4
+BFF I Fläche;Hecken-, Feld- und Ufergehölze (mit Krautsaum);247935.84;nein;ja;"1 Als Hecken und Ufergehölze gelten grösstenteils geschlossene, wenige Meter breite Gehölzstreifen,
+die vorwiegend aus einheimischen und standortgerechten Stauden, Sträuchern und einzelnen Bäumen
+bestehen.
+2 Als Feldgehölze gelten flächig angeordnete Gruppen von einheimischen und standortgerechten
+Sträuchern und Bäumen";Hecken;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+Kulturpflanzen;Kartoffeln;239188.30;ja;ja;;FAO Database, Potato;May;30;35;50;25;140;ok;1;1.15;0.5;0.5
+ausserhalb LN;Wald;193638.91;nein;ja;;Wald;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+BFF I Fläche;Wintergerste;177073.47;eher_nein;ja;Kürzerer Vegetationszyklus, früher reif und geringerer Wasserbedarf als Weizen (Strickhof);"FAO Database, Barley (Winter); Strickhof";Oct;160;55;45;20;280;ok;1;1.15;0.25;0.3
+Getreide;Hafer;176042.86;ja;ja;Fraglich ob Winter- oder Sommerhafer, gem. Ersteindruck Quellen scheint Sommerhafer in CH weiter verbreitet;FAO Database, Oats;Oct;160;55;55;20;290;ok;1;1.1;0.15;0.15
+Kulturpflanzen;Sonnenblumen zur Speiseölgewinnung;150788.99;ja;ja;;"FAO Database, Sunflower; Strickhof";Apr;25;45;55;25;150;ok;1;1;0.35;0.35
+übrige Nutzfläche;Hecken-, Feld- und Ufergehölze (mit Pufferstreifen);146714.36;nein;ja;"1 Als Hecken und Ufergehölze gelten grösstenteils geschlossene, wenige Meter breite Gehölzstreifen,
+die vorwiegend aus einheimischen und standortgerechten Stauden, Sträuchern und einzelnen Bäumen
+bestehen.
+2 Als Feldgehölze gelten flächig angeordnete Gruppen von einheimischen und standortgerechten
+Sträuchern und Bäumen";Hecken;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+BFF I Fläche;Triticale;132904.27;eher_nein;ja;Kreuzung Roggen und Weizen;"FAO Database (Wheat); Strickhof. Triticale ";Oct;160;55;55;20;290;ok;1;1.15;0.25;0.4
+Kulturpflanzen;Zuckerrüben;131637.12;ja;ja;;FAO Database, Sugarbeet;Apr;35;55;50;40;180;ok;1;1.2;1;0.35
+BFF I Baum;Einheimische standortgerechte Einzelbäume und Alleen (Punkte oder Flächen);121086.64;nein;ja;;FAO Database, Alley (Walnut Tree);Mar;30;20;130;30;210;ok;1;1.1;0.65;0.5
+Kulturpflanzen;Eiweisserbsen zu Futterzwecken;119456.91;ja;ja;;FAO Database, Pea;Apr;35;35;30;20;120;ok;1;1.15;1.1;0.5
+Getreide;Sommerweizen (ohne Futterweizen der Sortenliste swiss granum);111547.06;eher_nein;ja;;"Wheat (Summer), FAO Database; Liebegg.ch";Feb;40;30;40;20;130;ok;1;1.15;0.25;0.4
+Getreide;Roggen;111537.37;eher_nein;ja;Aussaat: Mitte September bis Mitte Oktober;"FAO Datahase (Wheat); Strickhof. Rye";Oct;160;55;55;20;290;ok;1;1.15;0.25;0.4
+BFF I Fläche;Futterweizen gemäss Sortenliste swiss granum;105332.06;eher_nein;ja;;FAO Database, Wheat (Winter);Oct;160;55;55;20;290;ok;1;1.15;0.25;0.4
+übrige Nutzfläche;Spargel;101132.48;ja;ja;;FAO Database, Aspargus;Apr;90;30;200;45;365;ok;1;0.95;0.3;0.5
+Obst und Reben;Obstanlagen (Äpfel);90908.79;ja;ja;;FAO Database, Orchard (Apple);Mar;20;70;90;30;210;ok;1;0.95;0.7;0.45
+Kulturpflanzen;Futterrüben;62212.00;ja;ja;;FAO Database, Sugarbeet;Apr;35;55;50;40;180;ok;1;1.2;1;0.35
+übrige Nutzfläche;Übrige Grünfläche (Dauergrünfläche), beitragsberechtigt;58114.93;nein;ja;"Als Dauergrünfläche gilt die mit Gräsern und Kräutern bewachsene Fläche ausserhalb der
+Sömmerungsflächen (Art. 24). Sie besteht seit mehr als sechs Jahren als Dauerwiese oder als
+Dauerweide.
+(2 Als Dauerwiese gilt die Fläche, die jährlich mindestens ein Mal zur Futtergewinnung gemäht wird)";Wiesen;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+Getreide;Sommergerste;52716.68;eher_nein;ja;"kurze Vegetationszeit von 110 bis zu 130; ";FAO Database, Barley (Summer);Mar;40;30;40;20;130;ok;1;1.15;0.25;0.3
